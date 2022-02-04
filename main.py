@@ -1,6 +1,6 @@
 import os
 from time import sleep
-from detector import *
+from detectors import *
 
 
 def get_content_path(content_type: str):

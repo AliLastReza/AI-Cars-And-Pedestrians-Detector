@@ -4,12 +4,12 @@ Python AI Cars and Pedestrians Detector
 ## Quick Start
 From the scratch:
 ```bash
-mkdir Cars-And-Pedestrians-Detector
-cd Cars-And-Pedestrians-Detector
+mkdir AI-Cars-And-Pedestrians-Detector
+cd AI-Cars-And-Pedestrians-Detector
 virtualenv cpdenv
 source cpdenv/bin/activate
 git clone https://github.com/ja4ari/AI-Cars-And-Pedestrians-Detector.git
-cd Cars-And-Pedestrians-Detector
+cd AI-Cars-And-Pedestrians-Detector
 pip install -r requirements.txt
 python main.py
 ```
